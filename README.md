@@ -2,11 +2,12 @@
 
 ---
 
-<h2 align="center">🛴 Smart Kickboard: 탑승자 안전 시스템 구축 프로젝트</h2>
+<h2 align="center">🛴 Smart Kickboard</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1e9d1a3f-6725-4428-9774-85d8523c8a41" alt="Smart Scooter & Application" width="700"/>
+  <a href="https://lopsided-tray-d39.notion.site/20e04872d73a808ea356ea7a39253cc3">NOTION</a>
 </p>
+
 
 ### 1. 프로젝트 개요 (Overview)
 공유 킥보드 시장의 급격한 성장과 함께 관련 사고 건수도 급증하고 있습니다. 본 프로젝트는 **헬멧 미착용, 2인 이상 탑승** 등 주요 사고 원인을 사전에 감지하고 **모터 제어, 경고 시스템**을 통해 탑승자의 안전을 확보하는 **임베디드 안전 시스템**을 구축하는 것을 목표로 합니다.
